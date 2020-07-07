@@ -1,0 +1,75 @@
+c:\users\elwa3er\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\elwa3er\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\elwa3er\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\elwa3er\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\elwa3er\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\elwa3er\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Khalil\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Khalil\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Khalil\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Khalil\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Khalil\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Khalil\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.XtraForm1.resources
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.GenerateResource.Cache
+C:\Users\Khalil\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe.licenses
